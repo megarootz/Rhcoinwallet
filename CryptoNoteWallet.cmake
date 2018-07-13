@@ -1,4 +1,4 @@
 
-set(CN_PROJECT_NAME "mynerowallet")
-set(CN_CURRENCY_DISPLAY_NAME "mynero")
-set(CN_CURRENCY_TICKER "XYR")
+set(CN_PROJECT_NAME "Rhcoinwallet")
+set(CN_CURRENCY_DISPLAY_NAME "Rhcoin")
+set(CN_CURRENCY_TICKER "Rh")
